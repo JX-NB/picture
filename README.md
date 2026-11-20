@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=900&size=30&duration=1500&pause=200&color=FF0000&center=true&vCenter=true&width=700&lines=说看你妈呢;滚;别看了;再看收费" alt="骂" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=900&size=30&duration=1500&pause=200&color=FF0000&center=true&vCenter=true&width=700&lines=看你妈呢;滚;别看了;再看收费" alt="骂" />
 </div>
 
 <br/>
